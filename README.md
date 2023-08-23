@@ -11,5 +11,5 @@ The goal is to build a visually beautiful and interactive web experience includi
 • Car Collision: User accidentally might collide with other object. Collision will result in game over.
 • Score: The more a player can pass the road, the more he/she can score.
 
-![2](https://github.com/Mamun1113/Car-Rush/assets/66373332/b4e32997-0526-4f8f-8b5b-b55c15ff68d2)
 ![1](https://github.com/Mamun1113/Car-Rush/assets/66373332/221062a3-949e-4ede-a6a9-b6e703eca162)
+![2](https://github.com/Mamun1113/Car-Rush/assets/66373332/b4e32997-0526-4f8f-8b5b-b55c15ff68d2)
